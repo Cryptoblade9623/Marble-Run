@@ -1,5 +1,5 @@
 # Marble-Run
-This is a marble run project that is mainly 3d printed.
+This is a marble run project that is entirely 3d printed.
 Everything is custom designed, including the marbles
 It has a height of 253mm, width of 214mm and a length of 210.2mm
 The marbles' lengths are all 15mm
@@ -23,4 +23,15 @@ Please use the Marble Run Whole file as a reference.(Open the STL file in a slic
 8. If it does not, sand the marble and the contact surfaces of the spiral and case.
 9. Once the spiral is working, glue the apply super glue to the bottom face of the "Case" and glue it on to the base.
 10. Glue the "Plinko" board on to the base.
-11. 
+11. Glue the tunnel assembly onto the base and make sure all the contact points are touching.
+12. Glue the "Mid Drop" part on to the base.
+13. Glue the "Swerve" and "Swerve End Drop" together
+14. Glue the whole swerve assembly on to the base and to the opening path at the top of the spiral case.
+15. Glue the "Stairs" part on to the base.
+And you're done!
+Go have some fun watching the marbles race around!
+
+BOM
+| Parts                      | Purpose                                           | QTY | Cost($)| Vendor                                                                            |
+| 3D Printed Marble Run Body | Make up the main body of the marble run project   |  1  | $25.33 | [Printer on Printing Legion](https://app.slack.com/client/E09V59WQY1E/C083P4FJM46)|
+| 3D Printed Marbles         | Make up the marbles part of the marble run project |  5  | $(TBD) | [Printer on Printing Legion](https://app.slack.com/client/E09V59WQY1E/C083P4FJM46)|
