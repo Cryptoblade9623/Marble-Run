@@ -11,7 +11,16 @@ The main body files are split into 4 parts will all of them fitting on a Bambu A
 <img width="804" height="651" alt="image" src="https://github.com/user-attachments/assets/91ffb59b-58c2-4c98-8c75-60cd024dcbdc" />
 
 Instructions
-Since the Marble run is made of quite a lot of components, I will be using super glue to stick them together. Please use the Marble Run Whole file as a reference.
+Since the Marble run is made of quite a lot of components, I will be using super glue to stick them together. 
+Please use the Marble Run Whole file as a reference.(Open the STL file in a slicer and view it there or in any other CAD modeeling software)
 1. Stick the first and second parts of the "Top Tunnel" and then stick the "Funnel" on to the top of that.
 2. Stick the first and second parts of the "Mid Tunnel" together and then stick the "Tunnel Drop" on to the bottom of that.
-3. Stick the "Top Tunnel" and "Mid Tunnel assembles to together
+3. Stick the "Top Tunnel" and "Mid Tunnel" assembles to together.
+4. Slide the "Spiral" on to the long pole on the corner of the base.
+5. Glue the "Twister Top" on to the top of the "Spiral".
+6. Slide the "Case" on to the spiral - but DO NOT GLUE IT IN YET.
+7. Slide one of the 3D printed marbles into the slot at the bottom to make sure it works porperly.
+8. If it does not, sand the marble and the contact surfaces of the spiral and case.
+9. Once the spiral is working, glue the apply super glue to the bottom face of the "Case" and glue it on to the base.
+10. Glue the "Plinko" board on to the base.
+11. 
