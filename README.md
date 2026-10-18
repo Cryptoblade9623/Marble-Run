@@ -11,7 +11,7 @@ The main body files are split into 4 parts will all of them fitting on a Bambu A
 <img width="804" height="651" alt="image" src="https://github.com/user-attachments/assets/91ffb59b-58c2-4c98-8c75-60cd024dcbdc" />
 
 Instructions
-Since the Marble run is made of quite a lot of components, I will be using super glue to stick them together
+Since the Marble run is made of quite a lot of components, I will be using super glue to stick them together. Please use the Marble Run Whole file as a reference.
 1. Stick the first and second parts of the "Top Tunnel" and then stick the "Funnel" on to the top of that.
 2. Stick the first and second parts of the "Mid Tunnel" together and then stick the "Tunnel Drop" on to the bottom of that.
 3. Stick the "Top Tunnel" and "Mid Tunnel assembles to together
